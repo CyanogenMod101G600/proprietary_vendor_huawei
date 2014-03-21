@@ -129,6 +129,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/huawei/u8833/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/huawei/u8833/proprietary/lib/libdualsimswitch.so:system/lib/libdualsimswitch.so \
+    vendor/huawei/u8833/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so \
     vendor/huawei/u8833/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/huawei/u8833/proprietary/lib/libgesture_client.so:system/lib/libgesture_client.so \
     vendor/huawei/u8833/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
