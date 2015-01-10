@@ -42,8 +42,11 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/huawei/u8833/proprietary/bin/write_NV_114:system/bin/write_NV_114 \
     vendor/huawei/u8833/proprietary/bin/wlan_detect:system/bin/wlan_detect \
+    vendor/huawei/u8833/proprietary/cust/ons/ons.bin:system/cust/ons/ons.bin \
+    vendor/huawei/u8833/proprietary/cust/xml/mccTableParse.xml:system/cust/xml/mccTableParse.xml \
     vendor/huawei/u8833/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/huawei/u8833/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
+    vendor/huawei/u8833/proprietary/etc/init.d/10cust:system/etc/init.d/10cust \
     vendor/huawei/u8833/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/huawei/u8833/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/huawei/u8833/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
