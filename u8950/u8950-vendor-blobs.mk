@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8950/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/huawei/u8950/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/huawei/u8950/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/huawei/u8950/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8950/proprietary/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
     vendor/huawei/u8950/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/huawei/u8950/proprietary/bin/thermald:system/bin/thermald \
@@ -212,8 +211,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8950/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/huawei/u8950/proprietary/lib/libqueue.so:system/lib/libqueue.so \
     vendor/huawei/u8950/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/huawei/u8950/proprietary/lib/libril.so:obj/lib/libril.so \
-    vendor/huawei/u8950/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/huawei/u8950/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/huawei/u8950/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/huawei/u8950/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
