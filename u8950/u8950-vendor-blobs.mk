@@ -233,5 +233,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-51/nv_ext.bin:system/nv/MSM8X25_U8950-51/nv_ext.bin \
     vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-51/nv_ext_FTY.bin:system/nv/MSM8X25_U8950-51/nv_ext_FTY.bin \
     vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-1/nv_ext.bin:system/nv/MSM8X25_U8950-1/nv_ext.bin \
-    vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-1/nv_ext_FTY.bin:system/nv/MSM8X25_U8950-1/nv_ext_FTY.bin 
+    vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-1/nv_ext_FTY.bin:system/nv/MSM8X25_U8950-1/nv_ext_FTY.bin \
+    vendor/huawei/u8950/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so
 
